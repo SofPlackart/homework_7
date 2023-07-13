@@ -3,7 +3,7 @@ package ru.netology.javaqa.javaqamvn.services;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class SalesAmountTest {
+public class AllStatsServiceTests {
 
     @Test
     public void shouldFindSalesSum() {
